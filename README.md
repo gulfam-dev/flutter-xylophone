@@ -4,4 +4,4 @@ A new Flutter project.
 
 This project plays 7 different types of tunes.
 
-file:///Users/macbookpro/Screenshots/Screenshot%202024-01-13%20at%2012.58.28%20AM.png
+<img width="304" alt="Screenshot 2024-01-13 at 12 58 28 AM" src="https://github.com/gulfam-dev/xylophone_flutter/assets/146335824/fa1a2f93-0705-4ce8-9b05-8fa66dd4a926">
