@@ -1,6 +1,6 @@
-# xylophone_flutter
+# ColorTunes - XyloPhone
 
-A new Flutter project.
+ColorTunes: Unleash your creativity with a vibrant, full-screen xylophone. A playful app designed for kids.
 
 This project plays 7 different types of tunes.
 
